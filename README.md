@@ -1,4 +1,3 @@
 # myrepository
 #mytag
-#mytag2.1
-
+#mytag2
